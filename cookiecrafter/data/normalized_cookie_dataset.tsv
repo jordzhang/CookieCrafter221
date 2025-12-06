@@ -1,0 +1,28 @@
+recipe_id	recipe_name	original_yield	salt_g	flour_g	butter_g	brown_sugar_g	white_sugar_g	choc_chips_g	eggs_count	bake_temp_F	bake_time_min	chill_time_min	chewy	crispy	sweet	chocolatey	salty	thick	recipe_source
+1	Classic Chewy	24	4	210	170	150	50	180	1	350	11	60	5	1	4	4	1	4	https://sallysbakingaddiction.com/chewy-chocolate-chip-cookies/
+2	Crispy Thin	36	2.666666667	126.6666667	93.33333333	40	80	113.3333333	0.6666666667	350	14	0	1	5	4	3	1	2.5	https://www.biggerbolderbaking.com/thin-and-crispy-chocolate-chip-cookies/
+3	Extra Sweet	30	3.2	224	136	96	104	160	1.6	350	12	30	3	2	5	4	1	3.5	https://joyfoodsunshine.com/the-most-amazing-chocolate-chip-cookies/
+4	Chocolate Lover	24	3	200	170	120	60	260	2	350	13	45	3	1	3	5	1	4	https://sallysbakingaddiction.com/double-chocolate-chip-cookies-recipe/
+5	Salted Caramel	24	6	260	180	140	80	220	2	375	11	60	4	2	5	4	4	4.5	https://sweetphi.com/the-best-salted-caramel-chocolate-chip-cookies/
+6	Thick Bakery Style	12	10	520	450	300	160	440	4	375	12	120	5	1	4	4	2	5	https://sugarspunrun.com/thick-chocolate-chip-cookies/
+7	Chewy Brown Sugar	30	3.2	208	136	144	32	160	1.6	365	11	90	5	1	4	4	1	4.5	https://www.dessertfortwo.com/brown-sugar-chocolate-chip-cookies/
+8	Crispy Edges	36	2.666666667	153.3333333	100	46.66666667	73.33333333	120	1.333333333	385	13	15	3	4	4	3	1	3.5	https://inquiringchef.com/crispy-and-chewy-chocolate-chip-cookies/
+9	Double Chocolate	24	3	190	170	110	40	260	2	350	12	60	3	1	3	5	1	4	https://sallysbakingaddiction.com/double-chocolate-chip-cookies-recipe/
+10	Lightly Sweet	24	3	240	150	70	60	160	1	360	12	45	3	1	3	3	1	4.5	https://joyfoodsunshine.com/the-most-amazing-chocolate-chip-cookies/
+11	Giant Soft Batch	8	12	960	690	480	270	780	6	350	13	90	5	1	4	4	1	5	https://butternutbakeryblog.com/thick-bakery-style-chocolate-chip-cookies/
+12	Classic Toll House	36	2.666666667	180	151.3333333	100	100	226.6666667	1.333333333	375	10	0	3	2	4	4	1	2.5	https://www.verybestbaking.com/toll-house/recipes/original-nestle-toll-house-chocolate-chip-cookies/
+13	Brown Butter Chewy	24	4	220	200	140	60	200	2	350	12	60	5	1	4	4	1	4	https://sallysbakingaddiction.com/brown-butter-chocolate-chip-cookies/
+14	Thin Lace Cookies	40	1.8	96	102	48	48	84	0.6	350	9	0	1	5	4	3	1	2	Thin and Crispy Chocolhttps://sallysbakingaddiction.com/oatmeal-chocolate-chip-cookies/ate Chip Cookies - Handle the Heat
+16	Soft and Gooey	18	5.333333333	293.3333333	253.3333333	213.3333333	80	266.6666667	2.666666667	350	11	90	5	1	4	4	1	4.5	https://sallysbakingadhttps://handletheheat.com/thin-crispy-chocolate-chip-cookies/diction.com/giant-chocolate-chip-cookies/
+18	Low Sugar Classic	24	4	260	150	60	40	160	2	350	12	0	3	1	2	3	1	4.5	Best Chocolate Chip Chttps://butternutbakeryblog.com/salted-caramel-chocolate-chip-cookies/ookies (Popular Recipe!) - Sally's Baking
+19	Extra Salty Caramel	24	8	250	180	130	70	220	2	375	11	60	4	1	5	4	5	4.5	https://example.com/extra-salty-caramel
+20	Double Chip Overload	24	4	220	180	130	70	320	2	350	12	30	3	1	5	5	1	3	https://www.twopeasahttps://www.ihearteating.com/whole-wheat-chocolate-chip-cookies/ndtheirpod.com/chocolate-lovers-chocolate-chip-cookies/
+22	Shortbread Style	30	2.4	240	180	48	48	96	0.8	325	18	0	1	5	2	2	1	3	https://www.alisoneromhttps://handletheheat.com/peanut-butter-chocolate-chip-cookies/an.com/recipes/salted-butter-chocolate-chunk-shortbread
+23	Peanut Butter Choc	24	4	200	180	120	40	200	1	350	11	30	4	1	4	4	2	2.5	https://example.com/peanut-butter-choc
+24	High Flour Puffy	24	4	320	170	150	70	200	2	375	13	60	4	1	3	4	1	5	https://butternutbakeryhttps://handletheheat.com/thin-crispy-chocolate-chip-cookies/blog.com/thick-bakery-style-chocolate-chip-cookies/
+25	Very Crispy Butter	36	2.666666667	146.6666667	133.3333333	40	80	120	1.333333333	360	15	0	1	5	4	3	1	2.5	https://example.com/very-crispy-butter
+26	Thin Bakery Sheet	48	2	140	100	40	65	130	1.5	350	13	0	2	5	4	4	1	3	https://handletheheat.chttps://walnuts.org/recipe/chocolate-chip-walnut-cookie/om/thin-crispy-chocolate-chip-cookies/
+27	Chunky Walnut	24	4	220	170	130	60	220	2	350	13	30	4	2	3	4	1	3.5	https://sallysbakingaddiction.com/chewy-chocolate-chip-cookies/
+28	Mocha Chip	24	4	210	170	120	50	220	2	350	12	45	3	1	4	4	1	4.5	https://www.tastesoflizhttps://www.iheartnaptime.net/triple-chocolate-chip-cookies/zyt.com/mocha-chocolate-chip-cookies/
+29	Triple Chocolate	24	4	200	170	150	50	280	1	350	12	60	3	1	4	5	1	4	https://sallysbakingaddiction.com/triple-chocolate-chip-cookies/
+30	Light Crisp Tea Cookie	40	1.8	144	96	36	48	72	0.6	325	14	0	1	5	3	2	1	3	https://handletheheat.com/thin-crispy-chocolate-chip-cookies/
